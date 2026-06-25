@@ -13,7 +13,7 @@ const mono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://healthstack.tf"),
+  metadataBase: new URL("https://drjseifu3003.github.io/hipaa-stack-website"),
   title: "HIPAA Stack | Production-Ready AWS Compliance Infrastructure",
   description: "Deploy secure, modular, and battle-tested AWS infrastructure utilizing Terraform blueprints engineered to satisfy HIPAA / HITECH Technical Safeguards.",
   keywords: ["HIPAA Compliance", "AWS Security", "Terraform", "Infrastructure as Code", "Healthcare IT", "ePHI Encryption", "Clinical Systems"],
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "HIPAA Stack | AWS Compliance Infrastructure",
     description: "Modular, security-hardened Infrastructure as Code blueprints satisfying HIPAA / HITECH safeguards on AWS.",
-    url: "https://healthstack.tf",
+    url: "https://drjseifu3003.github.io/hipaa-stack-website",
     siteName: "HIPAA Stack",
     images: [
       {

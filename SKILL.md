@@ -66,7 +66,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "HIPAA Stack | AWS Compliance Infrastructure",
     description: "Modular, security-hardened Infrastructure as Code blueprints satisfying HIPAA / HITECH safeguards on AWS.",
-    url: "https://healthstack.tf",
+    url: "https://drjseifu3003.github.io/hipaa-stack-website",
     siteName: "HIPAA Stack",
     type: "website",
   },
@@ -319,7 +319,7 @@ import { MetadataRoute } from "next";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: "https://healthstack.tf",
+      url: "https://drjseifu3003.github.io/hipaa-stack-website",
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 1,
@@ -343,7 +343,7 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/api/",
     },
-    sitemap: "https://healthstack.tf/sitemap.xml",
+    sitemap: "https://drjseifu3003.github.io/hipaa-stack-website/sitemap.xml",
   };
 }
 ```

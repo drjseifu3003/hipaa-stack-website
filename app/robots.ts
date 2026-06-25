@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/api/",
     },
-    sitemap: "https://healthstack.tf/sitemap.xml",
+    sitemap: "https://drjseifu3003.github.io/hipaa-stack-website/sitemap.xml",
   };
 }
