@@ -26,8 +26,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: "/twitter-card.png",
-        width: 1200,
-        height: 630,
+        width: 828,
+        height: 552,
         alt: "HIPAA Stack Social Preview Card",
       },
     ],
